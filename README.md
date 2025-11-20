@@ -1,6 +1,6 @@
-# 🎩 The Sorting Hat - AI-Powered PR Analysis Agent
+# 🎯 Beginner-Friendly Analyser - AI-Powered PR Analysis Agent
 
-An autonomous AI agent that automatically analyzes GitHub Pull Requests and labels them as "beginner-friendly" based on intelligent heuristic scoring. When you point it at a PR, the Sorting Hat evaluates complexity, provides detailed code analysis, identifies potential issues, and helps maintainers understand what makes a PR suitable for new contributors.
+An autonomous AI agent that automatically analyzes GitHub Pull Requests and labels them as "beginner-friendly" based on intelligent heuristic scoring. When you point it at a PR, this agent evaluates complexity, provides detailed code analysis, identifies potential issues, and helps maintainers understand what makes a PR suitable for new contributors.
 
 ## 🎯 What Does It Do?
 
@@ -42,7 +42,7 @@ The agent uses a points-based heuristic system (threshold: 65 points):
 
 ```bash
 git clone <your-repo-url>
-cd the-sorting-hat
+cd beginner-friendly-analyser
 ```
 
 2. **Set up virtual environment**
@@ -353,7 +353,7 @@ If you hit GitHub API rate limits:
 
 ## 🎓 How It Helps New Contributors
 
-The Sorting Hat doesn't just label PRs - it creates a learning experience:
+The Beginner-Friendly Analyser doesn't just label PRs - it creates a learning experience:
 
 1. **Transparent Criteria** - Shows exactly why a PR is beginner-friendly
 2. **Educational Comments** - Explains project context and technical details
@@ -383,7 +383,7 @@ Contributions are welcome! Feel free to:
 * Improve documentation
 * Share your scoring criteria
 
-The Sorting Hat can analyze its own PRs! 🎩✨
+The Beginner-Friendly Analyser can analyze its own PRs! 🎯✨
 
 ## 📄 License
 
@@ -407,7 +407,7 @@ Inspired by the need to make open source contribution more accessible to beginne
 
 ---
 
-🎩 *The Sorting Hat: Sorting PRs, not students* ✨
+🎯 *Making open source contributions accessible, one PR at a time* ✨
 
 Built with ❤️ using Agno and Google Gemini
 
